@@ -35,3 +35,10 @@ It can't run any commercial games nor firmware at this stage.
   - **decoder_generator.rs**: generates parser stuff from sm86 descriptions
   - **sm_86_instructions.txt**: instruction dump, sourced from [DocumentSASS](https://github.com/0xD0GF00D/DocumentSASS).
   - **sm_86_latencies.txt**: instruction latencies as well, sourced from [DocumentSASS](https://github.com/0xD0GF00D/DocumentSASS).
+
+
+## what does the name mean?
+
+**oboromi (朧実)** is a constructed japanese neologism combining **朧 (oboro**, "hazy/vague") + **実 (-mi**, "essence/fruit").
+
+it means **"the tangible essence of imperfection."** even if oboromi was ever finished, it could never be perfect, and that's not a failure, just what it means to be an emulator.
